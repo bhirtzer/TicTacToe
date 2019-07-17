@@ -1,0 +1,11 @@
+C:\Users\bjh0523\Documents\Bench\C#\Beginner\Beginning C# Collections\CSharpCollections\bin\Debug\netcoreapp2.2\CSharpCollections.deps.json
+C:\Users\bjh0523\Documents\Bench\C#\Beginner\Beginning C# Collections\CSharpCollections\bin\Debug\netcoreapp2.2\CSharpCollections.runtimeconfig.json
+C:\Users\bjh0523\Documents\Bench\C#\Beginner\Beginning C# Collections\CSharpCollections\bin\Debug\netcoreapp2.2\CSharpCollections.runtimeconfig.dev.json
+C:\Users\bjh0523\Documents\Bench\C#\Beginner\Beginning C# Collections\CSharpCollections\bin\Debug\netcoreapp2.2\CSharpCollections.dll
+C:\Users\bjh0523\Documents\Bench\C#\Beginner\Beginning C# Collections\CSharpCollections\bin\Debug\netcoreapp2.2\CSharpCollections.pdb
+C:\Users\bjh0523\Documents\Bench\C#\Beginner\Beginning C# Collections\CSharpCollections\obj\Debug\netcoreapp2.2\CSharpCollections.csproj.CoreCompileInputs.cache
+C:\Users\bjh0523\Documents\Bench\C#\Beginner\Beginning C# Collections\CSharpCollections\obj\Debug\netcoreapp2.2\CSharpCollections.AssemblyInfoInputs.cache
+C:\Users\bjh0523\Documents\Bench\C#\Beginner\Beginning C# Collections\CSharpCollections\obj\Debug\netcoreapp2.2\CSharpCollections.AssemblyInfo.cs
+C:\Users\bjh0523\Documents\Bench\C#\Beginner\Beginning C# Collections\CSharpCollections\obj\Debug\netcoreapp2.2\CSharpCollections.dll
+C:\Users\bjh0523\Documents\Bench\C#\Beginner\Beginning C# Collections\CSharpCollections\obj\Debug\netcoreapp2.2\CSharpCollections.pdb
+C:\Users\bjh0523\Documents\Bench\C#\Beginner\Beginning C# Collections\CSharpCollections\obj\Debug\netcoreapp2.2\CSharpCollections.csprojAssemblyReference.cache
